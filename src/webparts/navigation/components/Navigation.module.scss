@@ -2,16 +2,16 @@
 
 .container{
   display:flex;
+  border:5px solid goldenrod;
   flex-wrap: wrap;
 }
+
 .box{
-  color:white;
-  font-size:18px;
-  text-align:center;
-  text-shadow:4px 4px 0 rgba(0,0,0,1);
-  padding:10px;
-  width:33.33333%;
-  background-color:blue;
-  padding:10px;
-  border-width:10px;
+ width:300px;
+ min-height:300px;
+ font-size: 25px;
+ color:white;
+ padding:20px;
+ 
+ 
 }
